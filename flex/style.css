@@ -1,0 +1,66 @@
+html,body {font-family:"Verdana",sans-serif}
+h1,h2,h3,h4,h5,h6 {font-family:"Segoe UI",sans-serif}
+
+ul{
+    list-style: none;
+    display: flex;
+}
+li{
+    padding: 5px;
+}
+
+.browser > h2, p {
+    margin: 4px;
+    font-size: 90%;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: grey;
+    color: white;
+  }
+
+  img{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+
+  }
+
+  .all-browsers {
+    margin: 0;
+    padding: 5px;
+    min-height: 70vh ;
+    margin-left: 200px ;
+    display: flex;
+    background-color: lightgray;
+  }
+  
+  .all-browsers > h1, .browser {
+    margin: 10px;
+    width: 200px;
+    padding: 5px;
+  }
+  
+  .browser {
+    background: white;
+  }
+  
+  .browser > h2, p {
+    margin: 4px;
+    font-size: 90%;
+  }
+
+  aside{
+    float: left;
+    width: 200px;
+  }
+  
+ 
+
+  
+
+
+
+ 
